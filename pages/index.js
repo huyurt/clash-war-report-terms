@@ -1,10 +1,8 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <strong>Privacy Policy</strong> <p>
+    <div className="container">
+  <strong>Privacy Policy</strong> <p>
                   MixxDev built the Clash War Report app as
                   a Free app. This SERVICE is provided by
                   MixxDev at no cost and is intended for use as
@@ -204,5 +202,6 @@ export default function Home() {
                   Terms and Conditions, do not hesitate to contact us
                   at mixxdeveloper@gmail.com.
                 </p>
+				</div>
   )
 }
