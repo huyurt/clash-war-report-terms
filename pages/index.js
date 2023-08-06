@@ -32,8 +32,9 @@ export default function Home() {
                   </p> <p>
                     Link to the privacy policy of third-party service providers used
                     by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
-                  We want to inform you that whenever you
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li></ul></div>
+				  <p><strong>Log Data</strong></p> <p>
+				  We want to inform you that whenever you
                   use our Service, in a case of an error in the app
                   we collect data and information (through third-party
                   products) on your phone called Log Data. This Log Data may
@@ -90,7 +91,7 @@ export default function Home() {
                     and you are aware that your child has provided us with
                     personal information, please contact us so that
                     we will be able to do the necessary actions.
-                  </p></div> <!----> <p><strong>Changes to This Privacy Policy</strong></p> <p>
+                  </p></div>  <p><strong>Changes to This Privacy Policy</strong></p> <p>
                   We may update our Privacy Policy from
                   time to time. Thus, you are advised to review this page
                   periodically for any changes. We will
@@ -135,7 +136,7 @@ export default function Home() {
                   </p> <p>
                     Link to Terms and Conditions of third-party service
                     providers used by the app
-                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p>
+                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Google Play Services</a></li></ul></div> <p>
                   You should be aware that there are certain things that
                   MixxDev will not take responsibility for. Certain
                   functions of the app will require the app to have an active
