@@ -1,8 +1,16 @@
+import Head from 'next/head'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
 
 export default function Home() {
   return (
     <div className="container">
-      <main>
+      <Head>
+        <title>Clan War Report</title>
+      </Head>
+	  
+      <main>        
+	  <p className="description">
   <strong>Privacy Policy</strong> <p>
                   MixxDev built the Clash War Report app as
                   a Free app. This SERVICE is provided by
@@ -204,6 +212,7 @@ export default function Home() {
                   Terms and Conditions, do not hesitate to contact us
                   at mixxdeveloper@gmail.com.
                 </p>
+			  </p>
 			  </main>
 				</div>
   )
