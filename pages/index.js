@@ -2,6 +2,7 @@
 export default function Home() {
   return (
     <div className="container">
+      <main>
   <strong>Privacy Policy</strong> <p>
                   MixxDev built the Clash War Report app as
                   a Free app. This SERVICE is provided by
@@ -203,6 +204,7 @@ export default function Home() {
                   Terms and Conditions, do not hesitate to contact us
                   at mixxdeveloper@gmail.com.
                 </p>
+			  </main>
 				</div>
   )
 }
