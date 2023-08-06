@@ -204,7 +204,5 @@ export default function Home() {
                   Terms and Conditions, do not hesitate to contact us
                   at mixxdeveloper@gmail.com.
                 </p>
-    </body>
-    </html>
   )
 }
